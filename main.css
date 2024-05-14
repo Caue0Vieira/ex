@@ -1,0 +1,26 @@
+.container {
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+    height: 100vh; 
+  }
+  
+  .coracao {
+    font-size: 100px; 
+    text-decoration: none; 
+    color: rgb(0, 0, 0); 
+  }
+  
+  .coracao:hover {
+    opacity: 0.7; 
+  }
+  
+  .coracao.clicked {
+    color: rgba(255, 0, 0, 0.981); 
+  }
+  #mensagem_2 {
+    margin-bottom: -50px; 
+    margin-left: -90px; 
+}
+
+  
